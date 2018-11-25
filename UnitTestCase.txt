@@ -1,0 +1,4 @@
+Case 1: Will Do -ve and +ve testing for file name and location for reading
+Case 2: Will Do +ve and -ve testing Currency types
+Case 3: Will Do +ve and -ve testing Currency values
+Case 4: Will Do -ve and +ve testing for writing file
